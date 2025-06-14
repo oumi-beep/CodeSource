@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+asyncpg
+python-jose[cryptography]
+passlib[bcrypt]
+pdfplumber
+python-docx
+httpx
+scikit-learn
+catboost
+undetected_chromedriver
+selenium
+
+

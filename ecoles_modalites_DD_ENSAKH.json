@@ -1,0 +1,39 @@
+[
+    {
+        "École": "EIL Côte d’Opale",
+        "Modalités": [
+            "Double diplôme Ingénieur-Ingénieur",
+            "Échange",
+            "Suivi de semestres d’enseignement"
+        ]
+    },
+    {
+        "École": "INSA Centre Val De Loire",
+        "Modalités": [
+            "Double diplôme Ingénieur-Ingénieur",
+            "Échange",
+            "PFE"
+        ]
+    },
+    {
+        "École": "INSA DE Toulouse",
+        "Modalités": [
+            "Échange"
+        ]
+    },
+    {
+        "École": "POLYTECH Angers",
+        "Modalités": [
+            "PFE",
+            "Suivi de semestres d’enseignement",
+            "Double diplôme Ingénieur-Ingénieur",
+            "Double diplôme Ingénieur-Master"
+        ]
+    },
+    {
+        "École": "Université du Québec à Chicoutimi (Canada)",
+        "Modalités": [
+            "Échange"
+        ]
+    }
+]
