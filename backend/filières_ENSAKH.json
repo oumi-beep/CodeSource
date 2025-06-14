@@ -1,0 +1,302 @@
+[
+    {
+        "nom": "Informatique et Ingénierie des Données (IID)",
+        "description": "La science des données se place actuellement dans une perspective pluridisciplinaire associant les domaines industriels, des sciences de vie, des sciences des données, des statistiques et de l’informatique. La science des données est une nouvelle discipline qui s’appuie sur la modélisation mathématique, les statistiques, l’informatique et la visualisation. La formation a pour objectif la transformation de grandes masses de données en connaissances pertinentes.",
+        "debouchees": [
+            "Data scientist",
+            "Data miners",
+            "Concepteur d’outils logiciels spécialisés",
+            "Ingénieur R&D",
+            "Consultant expert en décisionnel",
+            "Expert en intelligence artificielle",
+            "Analyste concepteur des logiciels de gestion et décisionnels",
+            "Développeur",
+            "Administrateur base de données",
+            "Administrateur système",
+            "Chef de projet informatique",
+            "Chercheur (thèse) dans ces domaines"
+        ],
+        "competences_acquises": [
+            "Statistiques, maîtrise des outils analytiques, analyse de données",
+            "Machine learning, sciences de données",
+            "Fouilles de données, extraction de connaissances, applications décisionnelles",
+            "Développement Web, base de données, génie logiciel, calcul distribué, traitement d’image et signal"
+        ],
+        "modalite_admission": {
+            "conditions_acces": [
+                "Accès en première année (dans la limite des places disponibles) : 2 années préparatoires au cycle ingénieur",
+                "Accès en deuxième année (dans la limite des places disponibles) : Licence en Mathématiques et/ou Informatique"
+            ],
+            "procedures_selection": [
+                "Première année : Étude du dossier",
+                "Deuxième année : Étude du dossier, Test écrit, Entretien oral"
+            ]
+        },
+        "prerequis": [
+            "Cours fondamentaux de mathématiques, informatique et physique du cycle préparatoire",
+            "Algorithmique",
+            "Programmation C",
+            "Python"
+        ]
+    },
+    {
+        "nom": "Génie Électrique (GE)",
+        "description": "La filière Génie Electrique (GE) forme des ingénieurs de haut niveau possédant les connaissances techniques et méthodologiques permettant de conduire et d'améliorer les performances des unités industrielles, de concevoir et de piloter des systèmes complexes liée à l’industrie et orientées vers la microélectronique, la compatibilité électromagnétique, les systèmes embarqués, l’automatique, la régulation, l’automobile, les énergies renouvelables, la mobilité électrique, l’électrotechnique, l’électronique de puissance, l’intelligence artificielle.",
+        "debouchees": [
+            "Développement des systèmes embarqués",
+            "Industrie automobile et aéronautique",
+            "Automatisation, régulation industrielle et commande des procédés",
+            "Maintenance industrielle",
+            "Bureaux d’étude",
+            "Secteur des énergies renouvelables",
+            "Mobilité électrique"
+        ],
+        "competences_acquises": [
+            "Conception et programmation des systèmes embarqués",
+            "Maîtrise des systèmes automatisés et de la régulation",
+            "Compétences en électrotechnique et électronique de puissance",
+            "Connaissance en microélectronique et compatibilité électromagnétique",
+            "Utilisation des outils de simulation et modélisation industrielle",
+            "Maîtrise des principes de maintenance industrielle",
+            "Connaissances approfondies en énergies renouvelables et mobilité électrique",
+            "Capacité à intégrer l’intelligence artificielle dans des systèmes industriels"
+        ],
+        "modalite_admission": {
+            "conditions_acces": [
+                "Accès en première année (dans la limite des places disponibles) : Candidats ayant validé les deux années préparatoires intégrées ; Candidats ayant réussi le concours national commun ; Titulaires des diplômes suivants : DEUG, DUT, DEUST, DEUP, Licence",
+                "Accès en deuxième année (dans la limite des places disponibles) : Étudiants ayant validé la 1ère année du cycle ingénieur ; Master en sciences et techniques, Master spécialisé ou équivalent ; Maîtrise en sciences et techniques ou équivalent"
+            ],
+            "procedures_selection": [
+                "Première année : Étude du dossier",
+                "Deuxième année : Étude du dossier + Examen écrit"
+            ]
+        },
+        "prerequis": [
+            "Bases solides en mathématiques et physique",
+            "Connaissances fondamentales en électronique et électrotechnique",
+            "Notions d’automatique et systèmes logiques",
+            "Capacité d’analyse et de modélisation de systèmes industriels"
+        ]
+    },
+    {
+        "nom": "Ingénierie des Réseaux Intelligents et Cybersécurité (IRIC)",
+        "description": "Le Cycle Ingénieur en Réseaux Intelligents et Cybersécurité (IRIC) a pour objectif de former des ingénieurs polyvalents, dotés de compétences techniques avancées et de capacités managériales, aptes à gérer des projets et à participer à des initiatives innovantes. Deux parcours sont proposés : la cybersécurité et l’Internet des Objets (IoT). Les lauréats sont destinés à travailler dans divers secteurs tels que la cybersécurité, le cloud, les télécommunications, les banques, assurances et industries.",
+        "debouchees": [
+            "Ingénieur/Consultant sécurité des systèmes d’information et cybersécurité",
+            "Ingénieur/Consultant réseaux et cloud",
+            "Ingénieur en planification, optimisation et déploiement des réseaux",
+            "Testeur d’intrusions (Pentester)",
+            "Auditeur IT",
+            "Ingénieur en services télécom",
+            "Analyste SOC (Security Operations Center)",
+            "Ingénieur/Consultant IoT",
+            "Analyste en forensics et cybercriminalité",
+            "Ingénieur R&D",
+            "Ingénieur DevSecOps",
+            "Ingénieur GRC (Gouvernance, Risque, Conformité)"
+        ],
+        "competences_acquises": [
+            "Conception, configuration et sécurisation des réseaux informatiques",
+            "Mise en œuvre de solutions de cybersécurité (pare-feux, IDS/IPS, VPN, etc.)",
+            "Analyse de vulnérabilités et réalisation de tests d’intrusion",
+            "Déploiement et gestion de solutions cloud et virtualisation",
+            "Développement d’applications sécurisées pour l’IoT",
+            "Surveillance et réponse aux incidents de sécurité (SOC, forensics)",
+            "Maîtrise des protocoles réseaux et des technologies de communication",
+            "Utilisation des outils de gestion de la sécurité informatique (SIEM, GRC, etc.)",
+            "Conception de systèmes embarqués intelligents et interconnectés",
+            "Planification, déploiement et optimisation d’architectures réseaux complexes",
+            "Conformité réglementaire et gouvernance des systèmes d'information",
+            "Capacités en gestion de projets IT et leadership technique"
+        ],
+        "modalite_admission": {
+            "conditions_acces": [
+                "Accès en première année : Candidats ayant réussi les deux années du cycle préparatoire intégré de l’ENSA ou équivalent ; Candidats ayant eu l’admission ou l’admissibilité au concours national commun (CNC) ; Candidats titulaires des diplômes suivants : DEUG, DEUST, DEUP, DUT",
+                "Accès en deuxième année : Candidats titulaires d’une Licence, bachelor ou équivalent dans la même spécialité"
+            ],
+            "procedures_selection": [
+                "Première année : Étude du dossier",
+                "Deuxième année : Étude du dossier, test écrit, entretien oral"
+            ]
+        },
+        "prerequis": [
+            "Pour la première année : Fondamentaux en mathématiques et physique, algorithmique",
+            "Pour la deuxième année : Réseaux et protocoles, traitement du signal, modulations, programmation orientée objet, électronique numérique et analogique, probabilité"
+        ]
+    },
+    {
+        "nom": "Génie des Procédés, de l’Énergie et de l’Environnement (GPEE)",
+        "description": "La filière 'Génie des Procédés, de l'Énergie et de l'Environnement' forme des ingénieurs spécialisés dans la conception, l'optimisation et la gestion de systèmes industriels complexes, tout en intégrant les enjeux de performance énergétique et de durabilité environnementale. Les étudiants développent des compétences dans la transformation des matières premières, la modélisation et la simulation des procédés, la gestion énergétique (classique et renouvelable), la dépollution, le traitement de l'eau et des effluents, et les technologies propres. Ce cursus met aussi l’accent sur l’analyse numérique, la thermodynamique appliquée, le transfert de chaleur, la mécanique des fluides et l'automatisation des procédés.",
+        "debouchees": [
+            "Ingénieur procédés dans les industries chimiques, pétrochimiques, agroalimentaires, minérales ou cimentières",
+            "Ingénieur en production et optimisation énergétique",
+            "Ingénieur en environnement et traitement des déchets",
+            "Responsable de dépollution ou de gestion des eaux usées",
+            "Consultant en efficacité énergétique ou ingénierie durable",
+            "Chargé d'études dans des bureaux d'ingénierie ou cabinets de conseil",
+            "Ingénieur R&D dans les domaines de l’énergie, des bioprocédés ou de la chimie verte",
+            "Responsable dans les régies de gestion de l’eau et entreprises d’assainissement",
+            "Chercheur ou ingénieur en laboratoire ou centre de recherche appliquée",
+            "Ingénieur dans les centrales thermiques ou énergies renouvelables"
+        ],
+        "competences_acquises": [
+            "Conception et modélisation des procédés physiques, chimiques ou biologiques",
+            "Simulation numérique et optimisation des systèmes industriels complexes",
+            "Maîtrise de la thermodynamique appliquée, de la mécanique des fluides et du transfert thermique",
+            "Analyse et gestion de la performance énergétique des procédés",
+            "Développement et intégration des énergies renouvelables dans les systèmes industriels",
+            "Conception de systèmes de traitement de l’eau et de gestion des déchets",
+            "Utilisation d’outils informatiques pour la simulation de procédés (Aspen Plus, MATLAB, etc.)",
+            "Application des principes de développement durable à la production industrielle",
+            "Contrôle automatisé des procédés industriels",
+            "Compétences en biotechnologie industrielle et technologies propres",
+            "Capacité à travailler en équipe multidisciplinaire et à piloter des projets techniques"
+        ],
+        "modalite_admission": {
+            "conditions_acces": [
+                "Accès en première année : Candidats ayant validé les deux années préparatoires intégrées ; Candidats ayant réussi le concours national commun (CNC) ; Candidats titulaires d’un DEUG, DUT, DEUST, DEUP ou diplôme équivalent, sous réserve d’examen du dossier et de réussite au concours interne"
+            ],
+            "procedures_selection": [
+                "Étude du dossier académique",
+                "Concours écrit interne pour certains profils externes selon les disponibilités"
+            ]
+        },
+        "prerequis": [
+            "Formation solide en mathématiques, physique",
+            "Connaissances de base en mécanique, chimie, thermodynamique et informatique"
+        ]
+    },
+    {
+        "nom": "Management et Gouvernance des Systèmes d'Information (MGSI)",
+        "description": "La filière Management et Gouvernance des Systèmes d'Information (MGSI) forme des ingénieurs dotés d’une double compétence : technique en informatique et stratégique en management des projets SI. Elle prépare les étudiants à piloter des projets de transformation digitale, à développer des solutions logicielles robustes et à accompagner les entreprises dans l’évolution et la gouvernance de leurs systèmes d’information. Le cursus permet aux étudiants de maîtriser les dimensions organisationnelle, technologique et managériale des SI, tout en intégrant les exigences de qualité, d’innovation et de performance opérationnelle.",
+        "debouchees": [
+            "Ingénieur des systèmes d'information",
+            "Chef de projet SI ou transformation digitale",
+            "Consultant ERP",
+            "Ingénieur développement logiciel",
+            "Business Analyst",
+            "Ingénieur intégrateur de progiciel",
+            "Chef de projet MOE ou AMOA",
+            "Ingénieur en gestion de bases de données",
+            "Assistant en maîtrise d'ouvrage informatique"
+        ],
+        "competences_acquises": [
+            "Modélisation mathématique et statistique",
+            "Conception, développement et intégration de systèmes d'information",
+            "Architecture des SI et gestion des bases de données",
+            "Analyse de données et support à la décision",
+            "Gestion de projet informatique et conduite du changement",
+            "Stratégie d’entreprise et transformation digitale",
+            "Gouvernance des SI et gestion des risques",
+            "Audit, conformité et élaboration de schémas directeurs SI",
+            "Leadership, communication professionnelle et travail collaboratif",
+            "Maîtrise des outils et méthodes de pilotage de la performance"
+        ],
+        "modalite_admission": {
+            "conditions_acces": [
+                "Accès en première année : Candidats ayant validé les deux années préparatoires intégrées",
+                "Accès en deuxième année : Licence en Mathématiques et/ou Informatique ou équivalent"
+            ],
+            "procedures_selection": [
+                "Étude du dossier académique",
+                "Entretien ou test technique selon le profil du candidat"
+            ]
+        },
+        "prerequis": [
+            "Solide base en algorithmique et programmation (Java, Python ou similaire)",
+            "Notions en bases de données relationnelles (SQL)",
+            "Connaissances fondamentales en mathématiques appliquées et statistiques",
+            "Introduction aux systèmes d’information et à l’architecture logicielle",
+            "Initiation à la gestion de projet et à l’organisation des systèmes d'entreprise",
+            "Maîtrise des outils bureautiques, bonne communication écrite et orale"
+        ]
+    },
+    {
+        "nom": "Master en Informatique et Mathématiques pour la Science des Données",
+        "description": "Le Master Big Data et Aide à la Décision vise à former des chercheurs pluridisciplinaires capables de relever les défis liés aux données massives. Les étudiants y acquièrent des compétences solides en science des données, apprentissage profond, fouille de données, calcul distribué, stockage de données massives et cloud computing. Cette formation permet d’utiliser des outils avancés pour la collecte, l’analyse et l’exploitation des données dans des contextes variés tels que le marketing, les réseaux sociaux, les secteurs industriel et médical ou encore l’ingénierie mathématique et l’optimisation.",
+        "debouchees": [
+            "Ingénieur de recherche et développement",
+            "Responsable Data Management",
+            "Ingénieur Big Data",
+            "Ingénieur d’étude statistique",
+            "Ingénieur en assurance",
+            "Ingénieur traitement de l’image",
+            "Analyste",
+            "Ingénieur Machine Learning",
+            "Consultant en science des données"
+        ],
+        "competences_acquises": [
+            "Modélisation mathématique et statistique",
+            "Analyse et visualisation de données",
+            "Analyse de signaux et d’images",
+            "Maîtrise des concepts avancés de data science et machine learning",
+            "Capacité à proposer des solutions concrètes à des problématiques complexes",
+            "Conception et implémentation d’algorithmes avancés",
+            "Traitement des données massives (Big Data) et calcul distribué",
+            "Travail en équipe pluridisciplinaire en entreprise ou société de conseil",
+            "Conception de produits ou structures en lien avec la recherche et l'innovation",
+            "Collecte, nettoyage, traitement et interprétation de données orientées entreprise"
+        ],
+        "modalite_admission": {
+            "conditions_acces": [
+                "Étudiants titulaires d’une Licence en Mathématiques ou en Informatique",
+                "Diplômés d’écoles d’ingénieurs dans des disciplines connexes"
+            ],
+            "procedures_selection": [
+                "Étude du dossier académique",
+                "Entretien éventuel selon le nombre de candidatures"
+            ]
+        },
+        "prerequis": [
+            "Bonne maîtrise des mathématiques fondamentales (algèbre linéaire, probabilités, statistiques)",
+            "Bases solides en algorithmique et programmation (Python ou équivalent)",
+            "Connaissances de base en structures de données et complexité",
+            "Initiation à la manipulation de données et outils de data science",
+            "Capacité à raisonner de manière analytique et à modéliser des situations concrètes"
+        ]
+    },
+    {
+        "nom": "Génie Informatique (GI)",
+        "description": "La filière Génie Informatique forme des ingénieurs en génie logiciel, avec une expertise en ingénierie des composants, architecture logicielle, modèles et systèmes d’information. La formation repose sur des bases solides en mathématiques, statistiques et analyse de données pour résoudre des problèmes techniques. Elle couvre les bases de données, la programmation avancée et l’ingénierie logicielle. Les étudiants apprennent la gestion de projets, la sécurité des systèmes et les pratiques DevOps. L’administration des systèmes, le cloud computing et le développement web et mobile complètent leur expertise, leur permettant de concevoir et gérer des infrastructures évolutives et sécurisées.",
+        "debouchees": [
+            "Ingénieur concepteur des logiciels",
+            "Développeur Full-Stack",
+            "Administrateur de Bases de Données",
+            "Concepteur des systèmes d’information",
+            "Architecte Logiciel",
+            "Ingénieur DevOps",
+            "Responsable de la Sécurité des Systèmes d'Information",
+            "Ingénieur Cloud",
+            "Chef de projet informatique",
+            "Architecte de Solutions",
+            "Ingénieur Test et Validation",
+            "Consultant expert en décisionnel"
+        ],
+        "competences_acquises": [
+            "Développement : C++, Python, PHP, Java/Jakarta EE, JavaScript",
+            "Frameworks : Symfony, CakePHP, Angular, React",
+            "Administration de base de données : MySQL, Oracle, NoSQL",
+            "Génie logiciel : CP RUP, SCRUM, Design Pattern, UML2",
+            "Virtualisation et Cloud : Docker, Kubernetes",
+            "Analyse de données : Techniques de fouille de données, business intelligence (BI)",
+            "DevOps & DevSecOps",
+            "Tests et assurance qualité dans le cycle de développement"
+        ],
+        "modalite_admission": {
+            "conditions_acces": [
+                "Accès en première année (dans la limite des places disponibles) : 2 années préparatoires au cycle ingénieur",
+                "Accès en deuxième année (dans la limite des places disponibles) : Licence en Mathématiques et/ou Informatique"
+            ],
+            "procedures_selection": [
+                "Première année : Étude du dossier",
+                "Deuxième année : Étude du dossier, Test écrit, Entretien oral"
+            ]
+        },
+        "prerequis": [
+            "Algorithmique",
+            "Langage C et/ou Python",
+            "Notions d’architecture des ordinateurs",
+            "Mathématiques du cycle préparatoire : Analyse, Algèbre, Probabilité"
+        ]
+    }
+]

@@ -1,0 +1,492 @@
+[
+    {
+        "Nom": "Noureddine ABOUTABIT",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Noureddine%20ABOUTABIT",
+        "Fonction": "Professeur Habilité",
+        "Email": "n.aboutabit@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Cybersécurité Réseaux et Télécoms"
+    },
+    {
+        "Nom": "Abderrahim BOUKHLET",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Abderrahim%20BOUKHLET",
+        "Fonction": "Professeur de l'Enseignement Supérieur",
+        "Email": "a.boukhlet@usms.ma",
+        "Description": "Enseignant chercheur en Anglais"
+    },
+    {
+        "Nom": "khadija CHOUKAIRY",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/khadija%20CHOUKAIRY",
+        "Fonction": "Professeur de l'Enseignement Supérieur",
+        "Email": "khadija.choukairy@usms.ac.ma",
+        "Description": "Enseignante Chercheuse au Département de Génie des Procédés"
+    },
+    {
+        "Nom": "Noureddine EL BARBRI",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Noureddine%20EL%20BARBRI",
+        "Fonction": "Professeur Habilité",
+        "Email": "n.elbarbri@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Génie Electrique"
+    },
+    {
+        "Nom": "Khalid EL GHOLAMI",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Khalid%20EL%20GHOLAMI",
+        "Fonction": "Professeur Assistant",
+        "Email": "k.elgholami@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Cybersécurité Réseaux et Télécoms"
+    },
+    {
+        "Nom": "Youssef El hadfi",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Youssef%20El%20hadfi",
+        "Fonction": "Professeur Habilité",
+        "Email": "y.elhadfi@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Ismail ER RACHID",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Ismail%20ER%20RACHID",
+        "Fonction": "Professeur Assistant",
+        "Email": "i.errachid@usms.ma",
+        "Description": "Enseignant chercheur au Département de Génie Electrique"
+    },
+    {
+        "Nom": "Abdelghani GHAZDALI",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Abdelghani%20GHAZDALI",
+        "Fonction": "Professeur Habilité",
+        "Email": "a.ghazdali@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Imad HAFIDI",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Imad%20HAFIDI",
+        "Fonction": "Professeur de l'Enseignement Supérieur",
+        "Email": "i.hafidi@usms.ma",
+        "Description": "Enseignant chercheur au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Aziz IFZARNE",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Aziz%20IFZARNE",
+        "Fonction": "Professeur Habilité",
+        "Email": "a.ifzarne@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Maths Informatique"
+    },
+    {
+        "Nom": "My Saddik KADIRI",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/My%20Saddik%20KADIRI",
+        "Fonction": "Directeur Adjoint",
+        "Email": "s.kadiri@usms.ma",
+        "Description": "Enseignant chercheur, spécialité Génie des Procédés. Mes recherches sont axées actuellement sur la modélisation et la simulation numérique des procédés industriels."
+    },
+    {
+        "Nom": "Hamza KHALFI",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Hamza%20KHALFI",
+        "Fonction": "Professeur Assistant",
+        "Email": "h.khalfi@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Lhachmi KHAMAR",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Lhachmi%20KHAMAR",
+        "Fonction": "Professeur Assistant",
+        "Email": "l.khamar@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Génie des Procédés"
+    },
+    {
+        "Nom": "Salaheddine KHAMLICH",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Salaheddine%20KHAMLICH",
+        "Fonction": "Professeur Assistant",
+        "Email": "s.khamlich@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Génie Electrique"
+    },
+    {
+        "Nom": "Abdesslam LOKRITI",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Abdesslam%20LOKRITI",
+        "Fonction": "Professeur Assistant",
+        "Email": "a.lokriti@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Génie Electrique"
+    },
+    {
+        "Nom": "Yassine MALEH",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Yassine%20MALEH",
+        "Fonction": "Professeur Assistant",
+        "Email": "y.maleh@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Cybersécurité Réseaux et Télécoms"
+    },
+    {
+        "Nom": "Mostafa SAADI",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Mostafa%20SAADI",
+        "Fonction": "Professeur Habilité",
+        "Email": "m.saadi@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Mohammed SAJIEDDINE",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Mohammed%20SAJIEDDINE",
+        "Fonction": "Directeur",
+        "Email": "m.sajieddine@usms.ma",
+        "Description": "Spécialité : Physique des matériaux\nDomaine de recherche : nanomatériaux, couches minces, nanotechnologie, électronique de spin, magnétisme, spectrométrie Mössbauer"
+    },
+    {
+        "Nom": "Salah TOUIL",
+        "Lien": "http://ensak.usms.ac.ma/ensak/instructor/Salah%20TOUIL",
+        "Fonction": "Professeur Habilité",
+        "Email": "s.touil@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Génie des Procédés"
+    },
+    {
+        "Nom": "Imane ABOUELKHIR",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "i.abouelkhir@usms.ma",
+        "Description": "Enseignante Chercheuse au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Ahmed AGHRICHE",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "a.aghriche@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Abderahim AZOUANI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "a.azouani@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Abdelmajid DARGHAM",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "a.dargham@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Fatima Zohra ENNAJI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "f.ennaji@usms.ma",
+        "Description": "Enseignante Chercheuse au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Noreddine GHERABI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "n.gherrabi@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Nidal LAMGHARI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "n.lamghari@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Mohammed NASRI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "m.nasri@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Nassima SOUSSI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "n.soussi@usms.ma",
+        "Description": "Enseignante Chercheuse au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Amine LAGHRIB",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "a.laghrib@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Amal OURDOU",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "a.ourdou@usms.ma",
+        "Description": "Enseignante Chercheuse au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Bouchra KAROUM",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "b.karoum@usms.ma",
+        "Description": "Enseignante Chercheuse au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Moad HAKIM",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "m.hakim@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Soufiane LYAQUINI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "s.lyaquini@usms.ma",
+        "Description": "Enseignant Chercheur au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Imane EL MALKI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "i.elmalki@usms.ma",
+        "Description": "Enseignante Chercheuse au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Sara BAGHDADI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "s.baghdadi@usms.ma",
+        "Description": "Enseignante Chercheuse au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Najat TISSIR",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "n.tissir@usms.ma",
+        "Description": "Enseignante Chercheuse au Département de Maths Informatique"
+    },
+    {
+        "Nom": "Aziza ABID",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "a.abid@usms.ma",
+        "Description": "Enseignante Chercheuse au Département Génie des Procédés"
+    },
+    {
+        "Nom": "Lhassan BIH",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "h.bih@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie des Procédés"
+    },
+    {
+        "Nom": "Khadija CHOUKAIRI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "k.choukairy@usms.ma",
+        "Description": "Enseignante Chercheuse au Département Génie des Procédés"
+    },
+    {
+        "Nom": "Wail ELBAZI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "w.elbazi@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie des Procédés"
+    },
+    {
+        "Nom": "Rabii EL MAANI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "r.elmaani@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie des Procédés"
+    },
+    {
+        "Nom": "Moulay Saddik KADIRI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "s.kadiri@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie des Procédés"
+    },
+    {
+        "Nom": "Kaoutar KHALLAKI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "k.khallaki@usms.ma",
+        "Description": "Enseignante Chercheuse au Département Génie des Procédés"
+    },
+    {
+        "Nom": "Lhachmi KHAMAR",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "e.khamar@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie des Procédés"
+    },
+    {
+        "Nom": "Kamal TABIT",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "tabit.kamal@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie des Procédés"
+    },
+    {
+        "Nom": "Mohamed TAHIRI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "m.tahiri@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie des Procédés"
+    },
+    {
+        "Nom": "Salah TOUIL",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "s.touil@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie des Procédés"
+    },
+    {
+        "Nom": "Alae ELABED",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "a.elabed@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie des Procédés"
+    },
+    {
+        "Nom": "Hatim AMEZIANE",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "h.ameziane@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie Électrique"
+    },
+    {
+        "Nom": "Amine AMHARECH",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "a.amharech@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie Électrique"
+    },
+    {
+        "Nom": "Mohamed BENDAOUD",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "m.bendaoud@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie Électrique"
+    },
+    {
+        "Nom": "Khalid CHIKH",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "k.chikh@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie Électrique"
+    },
+    {
+        "Nom": "Noureddine EL BARBRI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "n.elbarbri@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie Électrique"
+    },
+    {
+        "Nom": "Salahddine KHAMLICH",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "s.khamlich@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie Électrique"
+    },
+    {
+        "Nom": "Abdesslam LOKRITI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "a.lokriti@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie Électrique"
+    },
+    {
+        "Nom": "Kamal MAAIDER",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "k.maaider@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie Électrique"
+    },
+    {
+        "Nom": "Mohamed MASSOUR EL AOUD",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "massour@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie Électrique"
+    },
+    {
+        "Nom": "Karim RHOFIR",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "k.rhofir@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie Électrique"
+    },
+    {
+        "Nom": "Hajar BAGHDADI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "h.baghdadi@usms.ma",
+        "Description": "Enseignante Chercheuse au Département Génie Électrique"
+    },
+    {
+        "Nom": "Ali AMKOR",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "a.amkor@usms.ma",
+        "Description": "Enseignant Chercheur au Département Génie Électrique"
+    },
+    {
+        "Nom": "Khalid EL GHOLAMI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "k.elgholami@usms.ma",
+        "Description": "Enseignant Chercheur au Département Cybersécurité, Réseaux et Télécommunications"
+    },
+    {
+        "Nom": "Imade Fahd Eddine FATANI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "i.fatani@usms.ma",
+        "Description": "Enseignant Chercheur au Département Cybersécurité, Réseaux et Télécommunications"
+    },
+    {
+        "Nom": "HIND IDRISSI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "h.idrissi@usms.ma",
+        "Description": "Enseignante Chercheuse au Département Cybersécurité, Réseaux et Télécommunications"
+    },
+    {
+        "Nom": "Yassin MALEH",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "y.maleh@usms.ma",
+        "Description": "Enseignant Chercheur au Département Cybersécurité, Réseaux et Télécommunications"
+    },
+    {
+        "Nom": "Soufyane MOUNIR",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "s.mounir@usms.ma",
+        "Description": "Enseignant Chercheur au Département Cybersécurité, Réseaux et Télécommunications"
+    },
+    {
+        "Nom": "Sofia BELKHALA",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "s.belkhala@usms.ma",
+        "Description": "Enseignante Chercheuse au Département Cybersécurité, Réseaux et Télécommunications"
+    },
+    {
+        "Nom": "Chawki EL BALMANI",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "c.elbalmany@usms.ma",
+        "Description": "Enseignant Chercheur au Département Cybersécurité, Réseaux et Télécommunications"
+    },
+    {
+        "Nom": "Omar EL BANNAY",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "o.elbannay@usms.ma",
+        "Description": "Enseignant Chercheur au Département Cybersécurité, Réseaux et Télécommunications"
+    },
+    {
+        "Nom": "Jihane JEBRANE",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "j.jebrane@usms.ma",
+        "Description": "Enseignante Chercheuse au Département Cybersécurité, Réseaux et Télécommunications"
+    },
+    {
+        "Nom": "Younes ERROUAS",
+        "Lien": "",
+        "Fonction": "",
+        "Email": "y.errouas@usms.ma",
+        "Description": "Enseignant Chercheur au Département Cybersécurité, Réseaux et Télécommunications"
+    }
+]

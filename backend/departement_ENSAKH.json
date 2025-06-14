@@ -1,0 +1,285 @@
+[
+    {
+        "Nom Département": "Génie des Procédés",
+        "Lien": "http://ensak.usms.ac.ma/ensak/genie-des-procedes/",
+        "Chef": "TOUIL Salah",
+        "Adjoint": "KHAMAR Lhachmi",
+        "Filières": [
+            "Filière ingénieur en - Génie des Procédés, de l’Energie et de l’Environnement"
+        ],
+        "Professeurs": [
+            {
+                "Nom": "ABID Aziza",
+                "Email": "a.abid@usms.ma"
+            },
+            {
+                "Nom": "BIH Lhassan",
+                "Email": "h.bih@usms.ma"
+            },
+            {
+                "Nom": "CHOUKAIRI Khadija",
+                "Email": "k.choukairy@usms.ma"
+            },
+            {
+                "Nom": "ELBAZI Wail",
+                "Email": "w.elbazi@usms.ma"
+            },
+            {
+                "Nom": "El Maani Rabii",
+                "Email": "r.elmaani@usms.ma"
+            },
+            {
+                "Nom": "KADIRI Moulay Saddik",
+                "Email": "s.kadiri@usms.ma"
+            },
+            {
+                "Nom": "KHALLAKI Kaoutar",
+                "Email": "k.khallaki@usms.ma"
+            },
+            {
+                "Nom": "KHAMAR Lhachmi",
+                "Email": "e.khamar@usms.ma"
+            },
+            {
+                "Nom": "TABIT Kamal",
+                "Email": "tabit.kamal@usms.ma"
+            },
+            {
+                "Nom": "TAHIRI Mohamed",
+                "Email": "m.tahiri@usms.ma"
+            },
+            {
+                "Nom": "TOUIL Salah",
+                "Email": "s.touil@usms.ma"
+            },
+            {
+                "Nom": "ELABED Alae",
+                "Email": "a.elabed@usms.ma"
+            }
+        ]
+    },
+    {
+        "Nom Département": "Génie Electrique",
+        "Lien": "http://ensak.usms.ac.ma/ensak/genie-electrique/",
+        "Chef": "EL BARBRI Noureddine",
+        "Adjoint": "N'existe pas",
+        "Filières": [
+            "Filière ingénieur en - Génie Electrique"
+        ],
+        "Professeurs": [
+            {
+                "Nom": "AMEZIANE Hatim",
+                "Email": "h.ameziane@usms.ma"
+            },
+            {
+                "Nom": "AMHARECH Amine",
+                "Email": "a.amharech@usms.ma"
+            },
+            {
+                "Nom": "BENDAOUD Mohamed",
+                "Email": "m.bendaoud@usms.ma"
+            },
+            {
+                "Nom": "CHIKH Khalid",
+                "Email": "k.chikh@usms.ma"
+            },
+            {
+                "Nom": "EL BARBRI Noureddine",
+                "Email": "n.elbarbri@usms.ma"
+            },
+            {
+                "Nom": "KHAMLICH Salahddine",
+                "Email": "s.khamlich@usms.ma"
+            },
+            {
+                "Nom": "LOKRITI Abdesslam",
+                "Email": "a.lokriti@usms.ma"
+            },
+            {
+                "Nom": "MAAIDER Kamal",
+                "Email": "k.maaider@usms.ma"
+            },
+            {
+                "Nom": "MASSOUR EL AOUD Mohamed",
+                "Email": "massour@usms.ma"
+            },
+            {
+                "Nom": "RHOFIR Karim",
+                "Email": "k.rhofir@usms.ma"
+            },
+            {
+                "Nom": "BAGHDADI Hajar",
+                "Email": "h.baghdadi@usms.ma"
+            },
+            {
+                "Nom": "AMKOR Ali",
+                "Email": "a.amkor@usms.ma"
+            }
+        ]
+    },
+    {
+        "Nom Département": "Mathématiques et Informatique",
+        "Lien": "http://ensak.usms.ac.ma/ensak/maths-informatique/",
+        "Chef": "GHAZDALI Abdelghani",
+        "Adjoint": "N'existe pas",
+        "Filières": [
+            "Filière ingénieur en - Génie informatique",
+            "Filière ingénieur en - Informatique et Ingénierie des données",
+            "Filière ingénieur en - Management et Gouvernance des systémes d'information",
+            "Master en - Informatiques et Mathématiques  pour la science des Données"
+        ],
+        "Professeurs": [
+            {
+                "Nom": "ABOUELKHIR Imane",
+                "Email": "i.abouelkhir@usms.ma"
+            },
+            {
+                "Nom": "AGHRICHE Ahmed",
+                "Email": "a.aghriche@usms.ma"
+            },
+            {
+                "Nom": "AZOUANI Abderahim",
+                "Email": "a.azouani@usms.ma"
+            },
+            {
+                "Nom": "DARGHAM Abdelmajid",
+                "Email": "a.dargham@usms.ma"
+            },
+            {
+                "Nom": "EL HADFI YOUSSEF",
+                "Email": "y.elhadfi@usms.ma"
+            },
+            {
+                "Nom": "ENNAJI Fatima zohra",
+                "Email": "f.ennaji@usms.ma"
+            },
+            {
+                "Nom": "GHAZDALI Abdelghani",
+                "Email": "a.ghazdali@usms.ma"
+            },
+            {
+                "Nom": "GHERABI Noreddine",
+                "Email": "n.gherrabi@usms.ma"
+            },
+            {
+                "Nom": "HAFIDI Imad",
+                "Email": "i.hafidi@usms.ma"
+            },
+            {
+                "Nom": "IFZARNE Aziz",
+                "Email": "a.ifzarne@usms.ma"
+            },
+            {
+                "Nom": "KHALFI Hamza",
+                "Email": "h.khalfi@usms.ma"
+            },
+            {
+                "Nom": "LAMGHARI Nidal",
+                "Email": "n.lamghari@usms.ma"
+            },
+            {
+                "Nom": "NASRI Mohammed",
+                "Email": "m.nasri@usms.ma"
+            },
+            {
+                "Nom": "NASRI Mohammed",
+                "Email": "m.nasri@usms.ma"
+            },
+            {
+                "Nom": "SAADI Mostafa",
+                "Email": "m.saadi@usms.ma"
+            },
+            {
+                "Nom": "SOUSSI Nassima",
+                "Email": "n.soussi@usms.ma"
+            },
+            {
+                "Nom": "ABOUTABIT Noureddine",
+                "Email": "n.aboutabit@usms.ma"
+            },
+            {
+                "Nom": "LAGHRIB Amine",
+                "Email": "a.laghrib@usms.ma"
+            },
+            {
+                "Nom": "OURDOU Amal",
+                "Email": "a.ourdou@usms.ma"
+            },
+            {
+                "Nom": "KAROUM Bouchra",
+                "Email": "b.karoum@usms.ma"
+            },
+            {
+                "Nom": "HAKIM Moad",
+                "Email": "m.hakim@usms.ma"
+            },
+            {
+                "Nom": "LYAQUINI Soufiane",
+                "Email": "s.lyaquini@usms.ma"
+            },
+            {
+                "Nom": "EL MALKI Imane",
+                "Email": "i.elmalki@usms.ma"
+            },
+            {
+                "Nom": "BAGHDADI Sara",
+                "Email": "s.baghdadi@usms.ma"
+            },
+            {
+                "Nom": "TISSIR Najat",
+                "Email": "n.tissir@usms.ma"
+            }
+        ]
+    },
+    {
+        "Nom Département": "Cybersécurité Réseaux et Télécommunications",
+        "Lien": "http://ensak.usms.ac.ma/ensak/genie-reseaux-telecoms/",
+        "Chef": "MOUNIR Soufyane",
+        "Adjoint": "MALEH Yassin",
+        "Filières": [
+            "Filière ingénieur en - Ingénierie des Réseaux Intelligents et Cybersécurité"
+        ],
+        "Professeurs": [
+            {
+                "Nom": "EL GHOLAMI Khalid",
+                "Email": "k.elgholami@usms.ma"
+            },
+            {
+                "Nom": "FATANI Imade Fahd Eddine",
+                "Email": "i.fatani@usms.ma"
+            },
+            {
+                "Nom": "IDRISSI HIND",
+                "Email": "h.idrissi@usms.ma"
+            },
+            {
+                "Nom": "MALEH Yassin",
+                "Email": "y.maleh@usms.ma"
+            },
+            {
+                "Nom": "MOUNIR Soufyane",
+                "Email": "s.mounir@usms.ma"
+            },
+            {
+                "Nom": "BELKHALA Sofia",
+                "Email": "s.belkhala@usms.ma"
+            },
+            {
+                "Nom": "EL BALMANI Chawki",
+                "Email": "c.elbalmany@usms.ma"
+            },
+            {
+                "Nom": "EL BANNAY Omar",
+                "Email": "o.elbannay@usms.ma"
+            },
+            {
+                "Nom": "JEBRANE Jihane",
+                "Email": "j.jebrane@usms.ma"
+            },
+            {
+                "Nom": "ERROUAS Younes",
+                "Email": "y.errouas@usms.ma"
+            }
+        ]
+    }
+]

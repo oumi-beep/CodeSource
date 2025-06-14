@@ -1,0 +1,44 @@
+[
+  {
+    "Title": "HR Assistant",
+    "Company": "Customer Obsession",
+    "Location": "Maroc",
+    "Country": "Morocco",
+    "Platform": "Glassdoor",
+    "Description": "",
+    "Skills": "",
+    "Domain": "Traitement d'images",
+    "Link": "https://www.glassdoor.fr/job-listing/hr-assistant-customer-obsession-JV_KO0,12_KE13,31.htm?jl=1009653723947",
+    "Hash_ID": "44a5ae8b90a79da7a32ea0734a473937fdf191df10c98ad4e059fc2d4c143cce",
+    "Salary_Info": "",
+    "Job_Type": "Internship"
+  },
+  {
+    "Title": "Assistant Restaurant Manager",
+    "Company": "Marriott International",
+    "Location": "Rabat",
+    "Country": "Morocco",
+    "Platform": "Glassdoor",
+    "Description": "",
+    "Skills": "",
+    "Domain": "Traitement d'images",
+    "Link": "https://www.glassdoor.fr/job-listing/assistant-restaurant-manager-marriott-international-JV_IC3941674_KO0,28_KE29,51.htm?jl=1009761298055",
+    "Hash_ID": "40fb19224c033bd5131cd5d2e855e19ad6e018d63b9302187a699a2d35c40102",
+    "Salary_Info": "",
+    "Job_Type": "Internship"
+  },
+  {
+    "Title": "Executive Assistant",
+    "Company": "FAIRMONT",
+    "Location": "Rabat",
+    "Country": "Morocco",
+    "Platform": "Glassdoor",
+    "Description": "",
+    "Skills": "",
+    "Domain": "Traitement d'images",
+    "Link": "https://www.glassdoor.fr/job-listing/executive-assistant-fairmont-JV_IC3941674_KO0,19_KE20,28.htm?jl=1009722093471",
+    "Hash_ID": "cf9676bd41315432365d4b34845c35502b2134831d8efd4db939cbc932f8808c",
+    "Salary_Info": "",
+    "Job_Type": "Internship"
+  }
+]
