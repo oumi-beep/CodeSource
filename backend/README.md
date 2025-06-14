@@ -45,7 +45,7 @@ Ce répertoire contient le code source du backend de l'application, développé 
     *   Assurez-vous que les fichiers de modèles sérialisés (`modelCatboostbest.pkl`, `label_encoder.pkl`, `X_encoded_columns.pkl`) sont présents dans le répertoire `FuturePath_Backend`.
 
 6.  **Configuration de l'API Groq :**
-    *   Obtenez une clé API Groq et configurez-la comme variable d'environnement. Pour le momment je vais garder lapi que j'ai travaillez avec mais apres je vais les modifier et remplacer par *****.
+    *   Obtenez une clé API Groq et configurez-la comme variable d'environnement.  
 
 
 ## Exécution de l'Application
