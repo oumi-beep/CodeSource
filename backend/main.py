@@ -327,7 +327,7 @@ async def upload_cv(file: UploadFile = File(...), current_user: dict = Depends(g
     contents = await file.read()
         
     GROQ_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
-    GROQ_API_KEY = "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"
+    GROQ_API_KEY = "*++++++++++++++++++++++++++++++++++++++++++++*"
 
     def extract_text_from_CV_bytes(file_bytes: bytes, filename: str) -> str:
         print(f"[DEBUG] Nom du fichier reçu: '{filename}'")
@@ -907,7 +907,7 @@ async def unsave_recommendation(
 #-------------------------///////////////////
 
 # --- 🔐 API GROQ ---
-API_KEY1 = "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"
+API_KEY1 = "+_-----------------------------------------------*"
 API_URL1 = "https://api.groq.com/openai/v1/chat/completions"
 MODEL1 = "meta-llama/llama-4-scout-17b-16e-instruct"
 
